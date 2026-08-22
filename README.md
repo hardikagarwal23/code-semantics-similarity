@@ -59,7 +59,7 @@ Token lengths were analyzed on a random sample of **50,000 code pairs** using th
   </tr>
 </table>
 
-Basic cleaning improved the ≤512-token coverage by only 0.65 percentage points (73.09% → 73.74%), so the current pipeline uses the original code without regex-based cleaning.
+Basic cleaning improved the ≤512-token coverage by only **0.65 percentage** points (73.09% → 73.74%), so the current pipeline uses the original code without regex-based cleaning.
 
 
 ### Possible Improvements
